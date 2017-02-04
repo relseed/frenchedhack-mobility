@@ -1,4 +1,4 @@
-![](http://www.poncecitymarket.com/content/uploads/general_assembly_logo-e1465576797290-268x224.png) + ![](https://french.georgetown.edu/sites/french/files/files/upload/ambassade.jpg)
+![](http://static-assets.generalassemb.ly/logos/generalassembly-open-graph.png)  ![](https://french.georgetown.edu/sites/french/files/files/upload/ambassade.jpg)
 
 # #FrenchEdHack Mobility
 
