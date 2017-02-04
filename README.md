@@ -1,4 +1,4 @@
-![](http://static-assets.generalassemb.ly/logos/generalassembly-open-graph.png)  ![](https://french.georgetown.edu/sites/french/files/files/upload/ambassade.jpg)
+![](https://french.georgetown.edu/sites/french/files/files/upload/ambassade.jpg)
 
 # #FrenchEdHack Mobility
 
@@ -14,8 +14,9 @@ Moreover, understanding the current students that are opting to study abroad and
 Every team will present a 6 minute pitch (you will be cut off!) on their findings to the judges panel at 7:30 PM. 
 
 Presentations must include:
-A proven data analysis of contextualizing current study abroad figures. Given this context, provide recommendations for how the Embassy can increase their reach to encourage additional students
-Recommendations for improving French Embassy resources, particularly well-researched proposals surrounding a better user experience on frenchculture.org
+
+- A proven data analysis of contextualizing current study abroad figures. Given this context, provide recommendations for how the Embassy can increase their reach to encourage additional students
+- Recommendations for improving French Embassy resources, particularly well-researched proposals surrounding a better user experience on frenchculture.org
 
 Note that recommendations can take the form of recommended additional survey information the Embassy should collect for when applicable, competitive analysis, sketched or working prototypes, interactive data visualizations, and more. Your presentation should begin with topline findings, and unpack those findings based on the results of your quantitative and qualitative analysis.
 
@@ -31,10 +32,22 @@ Submissions must be submitted via pull request to the submissions folder by 7:00
 
 To submit, create a folder within the submission folder with your team name. In that folder, place your submission materials. All submissions must include the presentation materials your group is leveraging, whether this ranges from a PDF of a PPT to links (in a mardown file) to working prototypes and deployed visualization tools. (Bear in mind you cannot add files in excess of 100MB to your Github: you should save your presentation as a PDF)
 
-If you need help with pull requests, find Joseph in advance of the 7:00 PM deadline. Please also view this resource:
+If you need help with pull requests, find Joseph in advance of the 7:00 PM deadline. Please also view this [resource](https://yangsu.github.io/pull-request-tutorial/)
 
-https://yangsu.github.io/pull-request-tutorial/
+## Workshops
 
+
+
+## Communication
+
+
+
+
+
+
+
+
+![](http://static-assets.generalassemb.ly/logos/generalassembly-open-graph.png)
 
 
 
