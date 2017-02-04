@@ -1,4 +1,4 @@
-![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) + # ![](https://french.georgetown.edu/sites/french/files/files/upload/ambassade.jpg)
+![](https://cdn.evbuc.com/eventlogos/322771/galogo.png) + ![](https://french.georgetown.edu/sites/french/files/files/upload/ambassade.jpg)
 
 # #FrenchEdHack Mobility
 
