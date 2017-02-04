@@ -34,15 +34,30 @@ To submit, create a folder within the submission folder with your team name. In 
 
 If you need help with pull requests, find Joseph in advance of the 7:00 PM deadline. Please also view this [resource](https://yangsu.github.io/pull-request-tutorial/)
 
+## Judging Criteria
+
+Our judging panel has three distinguished guests:
+
+Christel Outreman is the current University Attache at the French Embassy in the US. Christel has a passion for assuring the success of student cultural integration.
+
+Natalie Cox is a program manager for French Immersion Programs in the US. Natalie completed her Master's degree in France.
+
+Shanaz Chowdhery is the Regional Director for General Assembly DC. As a self-declared "amateur coder," Shanaz understands the technical challenges of implementing your given solutions, as well as assessing their value to end users.
+
+The criteria is available [here](judging.md).
+
+
 ## Workshops
 
+There will be two workshops throughout the day.
 
+At 12:30 (during lunch), Joseph will be hosting "Intro to Data Analysis using Python." At 4:00 PM, Joseph will be hosting "Creating Your Own Personal Site with Bootstrap." Both of these workshops assume you have zero background in their respective field. (How introductory? We will even begin with creating [assuring] Github accounts [exist] for both.)
 
 ## Communication
 
+We will communicate via Slack.
 
-
-
+Join our team via this [link](https://frenchedhack.slack.com/shared_invite/MTM3MTA3NjU1OTg5LTE0ODYxOTcyNDgtNWEyM2M4M2Y1OQ).
 
 
 
